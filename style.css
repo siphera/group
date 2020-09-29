@@ -19,10 +19,18 @@
     width: 100%;
   }
 
+  .div4 {
+    border: 5px outset red;   
+    text-align: center;
+    height: 200px;
+    width: 100%;
+  }
+  
+
   div {
-      margin: 0px;
+      /* margin: 5px; */
   }
 
 .main {
-    display: flex;
+    /* display: flex; */
 }
