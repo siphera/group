@@ -1,0 +1,27 @@
+.div1 {
+    border: 5px outset green;   
+    text-align: center;
+    height: 200px;
+    /* width: 50%; */
+  }
+
+  .div2 {
+    border: 5px outset blue;   
+    text-align: center;
+    height: 200px;
+    /* width: 50%; */
+    /* margin-top: 50px;; */
+  }
+
+  .div3 {
+    border: 5px outset red;   
+    text-align: center;
+    height: 200px;
+  }
+  .div4 {
+    border: 5px outset rgb(207, 255, 192);   
+    text-align: center;
+    height: 200px;
+  }
+
+  
